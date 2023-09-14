@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Jason haider",
+    "uname": "@jaisen_haider",
+    "image": "public/Images/Ellipse10.png"
+  },
+  {
+    "id": "2",
+    "name": "Ux wing",
+    "uname": "@ux_wing",
+    "image": "public/Images/Ellipse11.png"
+  },
+  {
+    "id": "3",
+    "name": "Illustration",
+    "uname": "@illu_work",
+    "image": "public/Images/Ellipse12.png"
+  },
+  {
+    "id": "4",
+    "name": "Art academy",
+    "uname": "@art_work",
+    "image": "public/Images/Ellipse13.png"
+  }
+]

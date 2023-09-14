@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "img": "public/Images/Ellipse00.png",
+    "username": "Cathrine"
+  },
+  {
+    "id": "2",
+    "img": "public/Images/Ellipse01.png",
+    "username": "UX Star"
+  },
+  {
+    "id": "3",
+    "img": "public/Images/Ellipse02.png",
+    "username": "Julie Mirza"
+  },
+  {
+    "id": "4",
+    "img": "public/Images/Ellipse03.png",
+    "username": "Illustration"
+  },
+  {
+    "id": "5",
+    "img": "public/Images/Ellipse04.png",
+    "username": "Artist"
+  },
+  {
+    "id": "6",
+    "img": "public/Images/Ellipse04.png",
+    "username": "Artist"
+  },
+  {
+    "id": "7",
+    "img": "public/Images/Ellipse03.png",
+    "username": "Illustration"
+  },
+  {
+    "id": "8",
+    "img": "public/Images/Ellipse02.png",
+    "username": "Julie Mirza"
+  },
+  {
+    "id": "9",
+    "img": "public/Images/Ellipse01.png",
+    "username": "UX Star"
+  },
+  {
+    "id": "10",
+    "img": "public/Images/Ellipse00.png",
+    "username": "Cathrine"
+  }
+]
