@@ -17,7 +17,7 @@ export default function Top() {
         <div className="w-96 bg-rose-300 flex justify-end items-center space-x-10">
           <img
             className=" border-2 border-red-500 bg-rose-300 rounded-full w-14 h-14 "
-            src="public/Images/Ellipse 1.jpg"
+            src="/Images/Ellipse 1.jpg"
           />
           <Router>
             <Link to="/home" className="bg-rose-300 font-semibold">
