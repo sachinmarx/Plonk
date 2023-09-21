@@ -24,7 +24,7 @@ export default function Home() {
     <div className="relative overflow-y-auto  hide-scrollbar">
       <div className="flex w-[630px] top-3  py-5 px-4 mr-28 mt-4 overflow-hidden space-x-8 h-30 rounded-xl border-2 border-gray-900  border-opacity-5">
         <button onClick={Left} className="w-10 h-10 mt-6">
-          <img src="public/Images/Vector1.png"></img>
+          <img src="/Images/Vector1.png"></img>
         </button>
 
         <div
@@ -48,7 +48,7 @@ export default function Home() {
         </div>
 
         <button onClick={scrollRight} className="w-10 h-10 mt-6">
-          <img src="public/Images/Vector2.png"></img>
+          <img src="/Images/Vector2.png"></img>
         </button>
       </div>
 

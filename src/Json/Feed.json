@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "img": "public/Images/Ellipse 14.png",
+    "img": "/Images/Ellipse 14.png",
     "name": "UXUI Topics",
     "uname": "@Topics_ui",
-    "logo": "public/Images/Mask group.png",
+    "logo": "/Images/Mask group.png",
     "content": "Realistic UI design in mobile application..",
     "tag": "#uxui #uidesign #application",
-    "post": "public/Images/Rectangle 23.png",
-    "icon1": "public/Images/Frame1.png",
-    "icon2": "public/Images/Frame2.png",
-    "icon3": "public/Images/Frame3.png"
+    "post": "/Images/Rectangle 23.png",
+    "icon1": "/Images/Frame1.png",
+    "icon2": "/Images/Frame2.png",
+    "icon3": "/Images/Frame3.png"
   },
   {
     "id": "2",
-    "img": "public/Images/Ellipse13.png",
+    "img": "/Images/Ellipse13.png",
     "name": "Art Academy",
     "uname": "@Artist",
-    "logo": "public/Images/Mask group.png",
+    "logo": "/Images/Mask group.png",
     "content": "Flower drawing & painting, Artist : ",
     "tag": "@Hameed #Art #Artist #Painting",
-    "post": "public/Images/Rectangle 22.png",
-    "icon1": "public/Images/Frame1.png",
-    "icon2": "public/Images/Frame2.png",
-    "icon3": "public/Images/Frame3.png"
+    "post": "/Images/Rectangle 22.png",
+    "icon1": "/Images/Frame1.png",
+    "icon2": "/Images/Frame2.png",
+    "icon3": "/Images/Frame3.png"
   }
 ]

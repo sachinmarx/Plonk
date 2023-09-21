@@ -87,12 +87,12 @@ export default function Navi() {
 
           <img
             className=" h-44 w-56 p-2 space-x-12"
-            src="public/Images/Rectangle 3.png"
+            src="/Images/Rectangle 3.png"
           ></img>
           <span className=" flex  text-sm">
             <img
               className="bg-rose-200 m-1 h-7 w-7"
-              src="public/Images/Emoji.png"
+              src="/Images/Emoji.png"
             ></img>{" "}
             <p className="pl-2 w-44 text-sm font-semibold">
               How to improve business in social media
